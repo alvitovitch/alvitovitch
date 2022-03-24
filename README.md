@@ -10,6 +10,69 @@
 <br>
 <br>
 
+## Checkout My Personal Site!:
+<p>
+<a href="https://alvitovitch.github.io/personal_site/" target="_blank" >
+  <img width='600' src="./assets/vapor.gif" />
+</a>
+</p>
+
+<a href="https://github.com/alvitovitch/personal_site/" target="_blank">
+    <img align="left"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+<br>
+<br>
+
+## Checkout Down and Dandy!:
+<p>
+<a href="https://alvitovitch.github.io/Down_and_Dandy/" target="_blank" >
+  <img width='600' src="./assets/DnD.gif"  />
+</a>
+</p>
+
+  <a href="https://github.com/alvitovitch/Down_and_Dandy/" target="_blank">
+    <img align="left"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+
+<br>
+<br>
+
+## Checkout Order!:
+<p>
+<a href="https://app-order-vitovitch.herokuapp.com/#/" target="_blank" >
+  <img width='600' src="./assets/OrderScreenShot2.png" />
+</a>
+</p>
+
+<a href="https://app-order-vitovitch.herokuapp.com/#/" target="_blank" >
+  <img align="left"  src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+</a>
+  <a href="https://github.com/alvitovitch/Order" target="_blank">
+    <img align="left"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+  
+<br>
+<br>
+
+## Checkout Pictophone!:
+<p>
+<a href="https://pictophone.herokuapp.com/#/" target="_blank" >
+  <img width='600' src="./assets/freedraw_demo.gif" />
+</a>
+</p>
+
+<a href="https://pictophone.herokuapp.com/#/" target="_blank" >
+  <img align="left"  src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  </a>
+  <a href="https://github.com/alvitovitch/Pictophone" target="_blank">
+    <img align="left"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+<br>
+<br>
+
 ## Connect with me:
 <a href="https://www.linkedin.com/in/alvitovitch/" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
