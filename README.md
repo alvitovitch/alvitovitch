@@ -126,7 +126,5 @@
  <a href="#"><img alt="Andrew's Github Stats"  height="170px" src="https://github-readme-stats.vercel.app/api?username=alvitovitch&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
  </p>
  <p align="left" >
- <a href="#">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alvitovitch&theme=dark-smoky&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=08004C&fire=DD0000&stroke=00DBDD&sideNums=8760DD&currStreakNum=F200FFE1&dates=FFFFFF73)](https://git.io/streak-stats)
- </a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alvitovitch&theme=dark-smoky&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=08004C&fire=DD0000&stroke=00DBDD&sideNums=8760DD&currStreakNum=F200FFE1&dates=FFFFFF73)](https://git.io/streak-stats)
 
