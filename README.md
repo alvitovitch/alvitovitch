@@ -126,6 +126,5 @@
  <a href="#"><img alt="Andrew's Github Stats"  height="170px" src="https://github-readme-stats.vercel.app/api?username=alvitovitch&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
  </p>
  <p align="left" >
- <a href="#"><img  alt="Andrews's streak" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=alvitovitch&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a>
+ <a href="#"><img  alt="Andrews's streak" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=alvitovitch&theme=black-ice&hide_border=true&stroke=0000&background=0D1117](https://github-readme-streak-stats.herokuapp.com/demo/?user=alvitovitch&theme=dark-smoky&hide_border=true&date_format=M+j%5B%2C+Y%5D&properties=border&backgr)" /> </a>
 
-<!--
