@@ -1,9 +1,6 @@
 # Hi, I'm Andrew 🌱</b>
 
-- ✨ Web Dev Pro and AppAcademy Alum
-- 🔭 I’m currently learning Python
-- 💬 Ask me about Algorithm Visualizations
-- ⚡ Fun fact: I'm trying to build my own smart mirror. Wish me luck!
+- 🔭 Currently learning Unity
 - 😄 Pronouns: He/him/his
 
 
@@ -39,46 +36,9 @@
 <br>
 <br>
 
-## Checkout Order!:
-<p>
-<a href="https://app-order-vitovitch.herokuapp.com/#/" target="_blank" >
-  <img width='600' src="./assets/OrderScreenShot2.png" />
-</a>
-</p>
-
-<a href="https://app-order-vitovitch.herokuapp.com/#/" target="_blank" >
-  <img align="left"  src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-</a>
-  <a href="https://github.com/alvitovitch/Order" target="_blank">
-    <img align="left"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-  
-<br>
-<br>
-
-## Checkout Pictophone!:
-<p>
-<a href="https://pictophone.herokuapp.com/#/" target="_blank" >
-  <img width='600' src="./assets/freedraw_demo.gif" />
-</a>
-</p>
-
-<a href="https://pictophone.herokuapp.com/#/" target="_blank" >
-  <img align="left"  src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-  </a>
-  <a href="https://github.com/alvitovitch/Pictophone" target="_blank">
-    <img align="left"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-<br>
-<br>
-
 ## Connect with me:
 <a href="https://www.linkedin.com/in/alvitovitch/" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://angel.co/u/andrew-vitovitch" target="_blank">
-    <img align="left"  src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
   </a>
   <a href="mailto:alvitovitch@gmail.com" target="_blank">
     <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
